@@ -3,15 +3,6 @@
 Tiny configurable library for requiring collections of files.
 
 
-# Contents
-
-* [Reqr.dir](#reqrdirpath-config)
-* [Reqr.scan](#reqrscanpath-config)
-* [Reqr.load](#reqrloadtree-config)
-* [Reqr.force](#reqrforcetree)
-* [Reqr.replace](#reqrreplacepattern-replacementstring)
-
-
 ## Reqr.dir(path, config)
 
 `require`s a collection of files in a directory.
