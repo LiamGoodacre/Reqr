@@ -1,6 +1,6 @@
 {
   "name": "reqr",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tiny configurable library for requiring collections of files.",
   "main": "reqr.js",
   "dependencies": {
