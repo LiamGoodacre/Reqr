@@ -2,6 +2,7 @@
 
 Tiny configurable library for requiring collections of files.
 
+---
 
 ## Reqr.dir(path, config)
 
@@ -105,6 +106,7 @@ the loaded `module`: `{ path: String, module: * }`.
 ```
 
 
+---
 
 ## Reqr.scan(path, config)
 
@@ -177,6 +179,7 @@ Ignore empty directories.
 ```
 
 
+---
 
 ## Reqr.load(tree, config)
 
@@ -231,6 +234,7 @@ the loaded `module`: `{ path: String, module: * }`.
 ```
 
 
+---
 
 ## Reqr.force(tree)
 
@@ -260,6 +264,7 @@ Whether or not to traverse the whole tree. When false, only loads the top-level.
 ```
 
 
+---
 
 ## Reqr.replace(pattern, replacement)(string)
 
