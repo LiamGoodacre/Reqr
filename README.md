@@ -2,6 +2,8 @@
 
 Tiny configurable library for requiring collections of files.
 
+This library was inspired by [require-dir](https://www.npmjs.org/package/require-dir).
+
 ---
 
 ## Reqr.dir(path, config)
