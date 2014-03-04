@@ -113,7 +113,7 @@ the loaded `module`: `{ path: String, module: * }`.
 ## Reqr.scan(path, config)
 
 
-Scan for a collection of files in a directory - .
+Scan for a collection of files in a directory.
 
 Returns a tree object: each leaf is a file path, each node is a directory.
 
