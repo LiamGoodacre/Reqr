@@ -4,7 +4,7 @@
   "description": "Tiny configurable library for requiring collections of files.",
   "main": "reqr.js",
   "dependencies": {
-    "fk": "0.0.1"
+    "fk": "1.0.0"
   },
   "devDependencies": {
     "mocha": "1.17.1",
